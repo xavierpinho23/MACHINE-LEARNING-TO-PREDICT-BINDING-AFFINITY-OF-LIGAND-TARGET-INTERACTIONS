@@ -6,6 +6,6 @@ In this study we deployed various ML techniques to a heterogeneous set of drugs 
 
 ___________________________________________________________________________________________________________________________________
 Xavier Pinho, António J. Preto and Irina S. Moreira (2018)
-1) Centro de Neurociências e Biologia Celular, UC Biotech Parque Tecnológico de Cantanhede, Núcleo 04, Lote B, 3060 197 Cantanhede, Portugal.
+Centro de Neurociências e Biologia Celular, UC Biotech Parque Tecnológico de Cantanhede, Núcleo 04, Lote B, 3060 197 Cantanhede, Portugal.
 This poster was present at FMUP (College of Medicine from Porto) at EJIBCE (Meeting of Young Researchers of Computational and Structural Biology).
 ___________________________________________________________________________________________________________________________________
